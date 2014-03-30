@@ -4,3 +4,9 @@
 .build-project .page-title h1 {
 	float: none;
 }
+
+.build-project #other-build-projects {
+	border-bottom: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
