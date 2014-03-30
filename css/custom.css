@@ -10,3 +10,15 @@
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
+
+/*----------------------------------------------*/
+/* Build */
+/*----------------------------------------------*/
+#project-slider #build-slider .build-slider-div {
+	width: 960px;
+}
+
+#project-slider #build-slider .build-slider-div img {
+	width: 100%;
+	height: auto;
+}
