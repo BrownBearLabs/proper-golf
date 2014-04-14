@@ -243,11 +243,11 @@ jQuery(document).ready(function(){
 				jQuery(".post-info", this).stop().animate({'top':-height},{queue:false,duration:800});
 			});
 
-			jQuery('.portfolio-item .portfolio-icons').css('top',height);
+			jQuery('.portfolio-item .portfolio-icons').css('bottom', '-45px');
 			jQuery('.portfolio-item').hover(function(){
-				jQuery(".portfolio-icons", this).stop().animate({'top':height - '40'+'px'},{queue:false,duration:300});
+				jQuery(".portfolio-icons", this).stop().animate({'bottom':'5px'},{queue:false,duration:300});
 			}, function() {
-				jQuery(".portfolio-icons", this).stop().animate({'top':height},{queue:false,duration:300});
+				jQuery(".portfolio-icons", this).stop().animate({'bottom':'-45px'},{queue:false,duration:300});
 			});
 			
 			// For each image
