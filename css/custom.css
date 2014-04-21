@@ -30,6 +30,7 @@
 /*----------------------------------------------*/
 /* Portfolio fill-width */
 /*----------------------------------------------*/
+.portfolio-item img.portfolio-fill-width,
 ul.portfolio-fill-width .portfolio-item img {
 	max-width: 100%;
 	height: auto;
