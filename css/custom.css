@@ -12,13 +12,17 @@
 }
 
 /*----------------------------------------------*/
-/* Build */
+/* SLIDER */
 /*----------------------------------------------*/
-#project-slider #build-slider .build-slider-div {
+
+/*----------------------------------------------*/
+/* Slider fill-width */
+/*----------------------------------------------*/
+#project-slider .slider-fill-width-div {
 	width: 960px;
 }
 
-#project-slider #build-slider .build-slider-div img {
+#project-slider .slider-fill-width-div img {
 	width: 100%;
 	height: auto;
 }
