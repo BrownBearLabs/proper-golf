@@ -18,10 +18,12 @@
 /*----------------------------------------------*/
 /* Slider fill-width */
 /*----------------------------------------------*/
+#home-slider .slider-fill-width-div,
 #project-slider .slider-fill-width-div {
 	width: 960px;
 }
 
+#home-slider .slider-fill-width-div img,
 #project-slider .slider-fill-width-div img {
 	width: 100%;
 	height: auto;
