@@ -2585,7 +2585,7 @@ a.prev2 span {
 	
 .blog-post {
 	border-bottom: 1px dotted #ddd;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	margin-bottom: 50px; }
 	
 .blog-post.single-post {
@@ -2594,7 +2594,7 @@ a.prev2 span {
 .blog-post .post-title {
 	border-bottom: 1px dotted #ddd;
 	margin-bottom: 20px;
-	padding: 0 0 5px 125px;
+	padding: 0 0 5px 80px;
 	font-size: 20px;
 	font-weight: normal;
 	line-height: 1.2em;
@@ -2611,7 +2611,7 @@ a.prev2 span {
 	position: relative;
 	float: left;
 	overflow: hidden;
-	margin: -65px 0 20px 0;
+	margin: -65px 0 15px 0;
 	text-align: center; }
 	
 .meta-date-comment .meta-date, .meta-date-comment .meta-comment {
@@ -2701,7 +2701,7 @@ a.prev2 span {
 	margin-right: 30px; }
 	
 .blog2 .post-image img {
-	width: 280px;
+	#width: 280px;
 	height: 205px; }
 
 /*----------------------------------------------*/
